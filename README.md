@@ -1,7 +1,7 @@
 # MantisBT backup script (1.0.0)
 Creates a backup of your MantisBT installation and MySQL data
 
-Official support sites: [Official Github Repo](https://github.com/fstltna/CoffeeBackup) - [Official Forum](https://pocketmud.com/index.php/forum/server-utils)  - [Official Download Area](https://pocketmud.com/index.php/download-upload/category/4-servers)
+Official support sites: [Official Github Repo](https://github.com/fstltna/mantisbackup)
 
 ---
 
