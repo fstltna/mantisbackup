@@ -199,6 +199,7 @@ if (-f "$BACKUPDIR/mantisbt.sql-$FileRevision")
 }
 $FileRevision -= 1;
 }
+print "Done\n";
 
 DumpMysql($LATESTFILE);
 print("Done!\n");
